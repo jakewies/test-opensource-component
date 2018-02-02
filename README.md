@@ -16,19 +16,19 @@ I'm testing out my component in a separate local project. I'm doing this using `
 
 In this project:
 
-```
+```javascript
 yarn link
 ```
 
 Navigate to local test project where you can consume this example:
 
-```
+```javascript
 yarn link test-opensource-component
 ```
 
 Then you can `import` the component using:
 
-```
+```javascript
 import TestComponent from 'test-opensource-component`
 ```
 
