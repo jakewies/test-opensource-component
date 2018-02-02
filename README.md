@@ -16,13 +16,13 @@ I'm testing out my component in a separate local project. I'm doing this using `
 
 In this project:
 
-```javascript
+```
 yarn link
 ```
 
 Navigate to local test project where you can consume this example:
 
-```javascript
+```
 yarn link test-opensource-component
 ```
 
@@ -51,3 +51,4 @@ Warning: Failed context type: Invalid context `__styled-components-stylesheet__`
 ```
 
 Everything still works, and I'm assuming this is because it's a warning. I'm just not sure how to resolve or why it's happening in the first place.
+[text¬](link)
