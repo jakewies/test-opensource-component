@@ -29,7 +29,7 @@ yarn link test-opensource-component
 Then you can `import` the component using:
 
 ```javascript
-import TestComponent from 'test-opensource-component`
+import TestComponent from 'test-opensource-component'
 ```
 
 On initial render of the page, I'm receiving an error that looks like this:
